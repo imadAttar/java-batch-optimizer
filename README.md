@@ -198,7 +198,7 @@ processor.process(data, item -> {
 
 ### Cas #1 : Réconciliation Financière (Fintech)
 
-**Contexte** : Batch de réconciliation entre système bancaire et comptable (MoneyTrack SAS)
+**Contexte** : Batch de réconciliation entre système bancaire et comptable (plateforme fintech)
 
 **Problème** :
 - ⏰ 15 heures de traitement nocturne
@@ -375,7 +375,7 @@ Senior Java Architect | Performance Expert
 - 🐙 GitHub: [@imadAttar](https://github.com/imadAttar)
 - 📧 Email: attar.imadeddine@gmail.com
 
-**Inspiré par une optimisation réelle** : 15h → 10min sur un batch critique fintech (MoneyTrack SAS, 2025)
+**Inspiré par une optimisation réelle** : 15h → 10min sur un batch critique en production (fintech, 2025)
 
 ## 🙏 Remerciements
 
